@@ -23,3 +23,4 @@ npm test        # Node's built-in test runner (node --test)
 5. `npm test`
 
 The job fails if any step fails. There is no deployment stage.
+# testing_repo_for_claude
