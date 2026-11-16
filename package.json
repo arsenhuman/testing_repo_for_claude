@@ -1,0 +1,19 @@
+{
+  "name": "devops-practice",
+  "version": "1.0.0",
+  "description": "Tiny Node.js sample app for practicing CI with GitHub Actions",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "private": true,
+  "scripts": {
+    "lint": "eslint .",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18.18"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.5"
+  }
+}
